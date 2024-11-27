@@ -83,8 +83,15 @@ Example plot:
 
 ## References
 
-- [Waylong O. "GANS for Anomaly Detection"](https://github.com/waylongo/Gans-for-anomaly-detection).
-- Al-Fakih, A., Koeshidayatullah, A., Mukerji, T., & Kaka, S. I. (2024). "Enhanced anomaly detection in well log data through the application of ensemble GANs," *Journal of Geophysical Research*.
+1. [Waylong O. "GANS for Anomaly Detection"](https://github.com/waylongo/Gans-for-anomaly-detection).
+2. Goodfellow, Ian, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. "Generative adversarial nets." In *Advances in neural information processing systems*, pp. 2672-2680. 2014.
+3. Brock, Andrew, Jeff Donahue, and Karen Simonyan. "Large scale GAN training for high fidelity natural image synthesis." *arXiv preprint arXiv:1809.11096* (2018).
+4. Reynolds, D. "Gaussian Mixture Models". *Encyclopedia of Biometrics*, pp.827-832, 2015.
+5. Bishop, C. *Pattern Recognition and Machine Learning (Information Science and Statistics)*. Springer-Verlag New York, Inc., Secaucus, NJ, USA, 2006.
+6. Stauffer, C., and Grimson, W. "Adaptive background mixture models for real-time tracking". *Proceedings. 1999 IEEE Computer Society Conference on Computer Vision and Pattern Recognition* (Cat. No PR00149).
+7. Krishnapuram, R., and Keller, J. M. "A possibilistic approach to clustering", *IEEE Transactions on Fuzzy Systems*, vol. 1, no. 2, pp. 98-110, 1993.
+8. Al-Fakih, A., Koeshidayatullah, A., Mukerji, T., & Kaka, S. I. (2024). "Enhanced anomaly detection in well log data through the application of ensemble GANs," *Journal of Geophysical Research*.
+
 
 
 ## How to Cite
