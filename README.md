@@ -97,6 +97,8 @@ Example plot:
 ## How to Cite
 If you use this code or data, please cite the following paper:
 
+https://doi.org/10.48550/arXiv.2411.19875
+
 Al-Fakih, A., Koeshidayatullah, A., Mukerji, T., & Kaka, S. I. (2024). "Enhanced anomaly detection in well log data through the application of ensemble GANs," Journal of Geophysical Research.
 License
 This project is licensed under the Apache License 2.0.
